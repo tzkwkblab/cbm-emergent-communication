@@ -27,7 +27,7 @@ Paths to datasets and training parameters can be adjusted in `src/config.py`.
 
 The training script expects:
 - Pre-extracted feature files (`.npz`) for train/val/test sets
-- A HOC annotation CSV file
+- HOC annotation CSV file
 
 If needed, preprocessing scripts are provided to generate these files.
 
