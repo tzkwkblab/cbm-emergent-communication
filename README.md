@@ -5,7 +5,8 @@ This repository provides code for training a Concept Bottleneck Model integrated
 The project is associated with the research paper:  
 **"Concept Bottleneck Model with Emergent Communication Framework for Explainable AI"**  
 by **Farnoosh Javar** and **Kei Wakabayashi**,  
-presented at **The 3rd World Conference on eXplainable Artificial Intelligence (XAI-2025)**.
+accepted for publication in the **xAI-2025 Late-breaking Work, Demos and Doctoral Consortium Joint Proceedings (published by CEUR-WS)**,  
+and to be presented as a poster at **The 3rd World Conference on eXplainable Artificial Intelligence (XAI-2025)**.
 
 
 Installation
