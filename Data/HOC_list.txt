@@ -1,0 +1,26 @@
+HOC1	Long, luxurious fur
+HOC2	Short, dense, plush fur
+HOC3	Silky, semi-long fur
+HOC4	Silver-blue fur color
+HOC5	Pointed fur pattern
+HOC6	Varied or solid fur colors
+HOC7	Thick double coat
+HOC8	Thinner single coat
+HOC9	No undercoat
+HOC10	Copper or blue eyes
+HOC11	Yellow or green eyes
+HOC12	Large, round eyes
+HOC13	Almond-shaped eyes
+HOC14	Long whiskers
+HOC15	Short whiskers
+HOC16	No visible whiskers
+HOC17	Short, thick tail
+HOC18	Long, tapered tail
+HOC19	Plush, feathery tail
+HOC20	Hairless or thin tail
+HOC21	Slender body
+HOC22	Stout, cobby body
+HOC23	Sturdy round paws
+HOC24	Slim oval paws
+HOC25	Flat, broad nose
+HOC26	Straight, medium-length nose
